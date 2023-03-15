@@ -9,9 +9,11 @@ This mod fully replaces the entire housing with new printed parts.  You may be a
 # Required Parts
 **Printed Parts**
 
-Main Housing - Fully replaces the existing SFS housing
+Housing - Fully replaces the existing SFS housing
+
 Spring Cup - A cup you may put a spring into
-Lid - Replacement lid for the new housing.
+
+Lid - Replacement lid for the new housing
 
 **Hardware**
 
