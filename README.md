@@ -1,7 +1,7 @@
 # BTT-SFS-Adjustable-Tension-Mod
 A replacement housing and lid for the BTT SFS filament sensor that includes provisions to adjust the compression on the internal spring.
 ![](photos/CAD.PNG)
-<img src = "photos/AssemblyA.jpg" width = 750>
+<img src = "photos/AssemblyA.jpg" width = 700>
 <img src = "photos/AssemblyB.jpg" width = 250>
 
 This mod fully replaces the entire housing with new printed parts.  You may be able to reuse the original lid, however the original housing has an odd taper at one side of the injection molded part so the original lid may not fit properly.  Mounting holes in the new lid are close enough that other bolt-on SFS mods should still fit.
