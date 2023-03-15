@@ -18,6 +18,7 @@ Lid - Replacement lid for the new housing
 **Hardware**
 
 1x M3 Brass Heat-Set insert (If you're from the VORON community you probably have more than enough of these floating around.)
+
 1x M3x10 cap-head screw.  The tension on the spring is low enough this can easily be turned by hand.
 
 
